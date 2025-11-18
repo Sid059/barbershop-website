@@ -10,6 +10,7 @@ A responsive barber shop website built with HTML, CSS, and JavaScript featuring 
 - **Contact Information** - Easy booking and inquiries
 
 ## 📁 Project Structure
+```
 BarberShop/
 ├── 📁 assets/
 │ ├── 📁 font/
@@ -22,6 +23,7 @@ BarberShop/
 │ └── ⚡ navbar.js # Navigation functionality
 ├── 📄 index.html # Main homepage
 └── 📖 README.md # Documentation
+```
 
 ## 🌐 Live Demo
 [View Live Website](https://sid059.github.io/barbershop-website/)
